@@ -1,0 +1,27 @@
+{
+  "name": "mocha-testing-drills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "mocha index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-iguana/wendy-eli-testing-drills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-iguana/wendy-eli-testing-drills/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-iguana/wendy-eli-testing-drills#readme"
+}
